@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try the App Here](https://your-app-link.streamlit.app)**
+👉 **https://fraud-detection-u8anpjrezsulqtvgqzbrqh.streamlit.app/**
 
 ---
 
@@ -162,7 +162,7 @@ Built for a college hackathon focusing on:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: GITVIDHUB-1010
 
 ---
 
